@@ -1,0 +1,3 @@
+~~~~
+Working from vagrant
+~~~~
